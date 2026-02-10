@@ -6,7 +6,7 @@ import edgeoneAdapter from '@edgeone/astro';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://linapatino.github.io'
+  site: 'https://linasofiapatinocalderon.github.io'
   adapter: edgeoneAdapter(),
   output: 'static',
   integrations: [react()]
